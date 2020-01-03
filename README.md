@@ -1,6 +1,6 @@
 ## Minimalist Flask MVC Framework
 
-A minimalist flask micro framework design by using the MVC pattern.
+A minimalist flask micro framework design by using the MVC pattern and boilerplate for development.
 
 ## Requirements 
 
